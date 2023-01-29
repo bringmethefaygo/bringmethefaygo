@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/bringmethefaygo" target="blank"><img src="https://img.shields.io/twitter/follow/bringmethefaygo?logo=twitter&style=for-the-badge" alt="bringmethefaygo" /></a> </p>
 
-- 🌱 I’m currently learning **Django & DSA**
+- 🌱 I’m currently learning **GO**
 
 - 💬 Ask me about **tech,music,webseries**
 
