@@ -1,10 +1,8 @@
 <h1 align="center">Hi 👋, I'm Abhishek Tiwari</h1>
 <h3 align="center">I'm an engineering student and a to-be developer man_technologist from India who is passionate about Data Science, Python Development and opensource.</h3>
-<img align="right" alt="Coding" width="200" src=https://media.tenor.com/VpZ2Nf5gdRYAAAAC/pc-banging.gif">
+<img align="right" alt="Coding" width="300" src=https://media.tenor.com/VpZ2Nf5gdRYAAAAC/pc-banging.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bringmethefaygo&label=Profile%20views&color=0e75b6&style=flat" alt="bringmethefaygo" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bringmethefaygo" alt="bringmethefaygo" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/bringmethefaygo" target="blank"><img src="https://img.shields.io/twitter/follow/bringmethefaygo?logo=twitter&style=for-the-badge" alt="bringmethefaygo" /></a> </p>
 
