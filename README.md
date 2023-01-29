@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Abhishek Tiwari</h1>
 <h3 align="center">I'm an engineering student and a to-be developer from India who is passionate about Data Science, Python Development and opensource.</h3>
-<img align="center" alt="Coding" width="300" src=https://media.tenor.com/VpZ2Nf5gdRYAAAAC/pc-banging.gif">
+<img align="right" alt="Coding" width="300" src=https://media.tenor.com/VpZ2Nf5gdRYAAAAC/pc-banging.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bringmethefaygo&label=Profile%20views&color=0e75b6&style=flat" alt="bringmethefaygo" /> </p>
 
